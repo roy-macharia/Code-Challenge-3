@@ -1,73 +1,80 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Kyoto in Spring: Cherry Blossoms and Traditions",
       "content": "Last spring, I traveled to Kyoto and experienced its famous cherry blossom season. The city was filled with delicate pink flowers, ancient temples, and the delicious aroma of street food. Wandering through the gardens and narrow streets felt like stepping back in time. I returned home with countless photos and a renewed sense of peace.",
       "author": "Emily Thompson",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "From Chatbots to Reality: How AI is Shaping Our World",
       "content": "Recently, I experimented with an AI writing assistant and was amazed by its capabilities. It's incredible to see how algorithms can generate images, understand natural language, and even mimic human conversation. In this post, I break down some of the most exciting AI trends and discuss how they're impacting our world.",
       "author": "Michael Johnson",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "The Art of Homemade Pizza: From Dough to Delicious",
       "content": "I recently tried making pizza from scratch and was surprised by how easy and rewarding it was. After kneading the dough and slicing fresh mozzarella, the kitchen filled with the delicious scent of baking bread. The final result was a crispy, cheesy pizza that rivaled any restaurant. Below is the recipe and tips to help you make the perfect pizza at home too.",
       "author": "Sophia Martin",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Declutter Your Life: Embracing Minimalism",
       "content": "Simplifying your life can have a profound impact on your well-being. In this post, I share my journey into minimalism and offer practical tips for reducing clutter. You'll learn how letting go of unnecessary items can make your home feel more peaceful and help you focus on what really matters.",
       "author": "Ethan Clarke",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Work Smarter, Not Harder: Productivity Hacks for Busy People",
       "content": "As someone who juggles multiple projects, I rely on simple techniques like the Pomodoro Method to stay on track. By breaking my work into 25-minute focused sessions with short breaks, I can maintain concentration and avoid burnout. In this post, I'll share a few productivity hacks that help me work smarter, not harder.",
       "author": "Olivia Davis",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Yoga for Beginners: Finding Your Inner Calm",
       "content": "Starting a daily yoga practice has transformed my overall well-being. Initially, I could barely touch my toes, but after a few weeks, I felt more flexible and energetic. Regular yoga not only improved my flexibility but also reduced stress and gave me a sense of inner peace. In this post, I share some beginner-friendly poses and tips to help you get started.",
       "author": "Raj Patel",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "The Rise of Sustainable Fashion: Tips for an Eco-Friendly Wardrobe",
       "content": "Sustainable fashion is more than a trend—it's a movement towards conscious living. Instead of buying new clothes constantly, I've started exploring thrift shops and ethical brands. With a few clever styling tips, you can create a versatile wardrobe that looks great and supports the planet. In this post, I'll share how to find quality second-hand pieces and care for your clothes to make them last longer.",
       "author": "Mia Gonzalez",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Financial Freedom: Simple Budgeting Tips for Beginners",
       "content": "Saving money can seem daunting, but it all starts with a clear budget. I recently started tracking every expense for a month, which helped me identify areas where I could cut back. By setting realistic savings goals and monitoring my spending, I've managed to pay off debt and build an emergency fund. In this post, I'll share some budgeting strategies that anyone can use to improve their financial health.",
       "author": "Daniel Kim",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "The Magic of the Night Sky: A Beginner's Guide to Stargazing",
       "content": "On clear nights, I love heading outside to marvel at the stars with just a pair of binoculars and a smartphone app. Using easy-to-follow star charts and apps, even beginners can identify constellations, planets, and the occasional satellite. In this post, I'll share some tips and tools that helped me enjoy stargazing and feel connected to the universe.",
       "author": "Alexandra White",
       "image": "https://via.placeholder.com/150"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Top 5 Must-Watch Movies of the Year",
       "content": "I've spent countless nights binge-watching films and found some hidden gems that deserve more attention. In this list, I'll highlight five must-watch movies from the past year, including a mix of thought-provoking dramas and thrilling sci-fi. From indie hits to blockbuster surprises, these picks have something for every movie lover. Grab some popcorn and get ready to add these to your watchlist!",
       "author": "Carlos Rodriguez",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "04fe",
+      "title": "Wedding ",
+      "content": "this is awedding",
+      "author": "kay",
       "image": "https://via.placeholder.com/150"
     }
   ]
