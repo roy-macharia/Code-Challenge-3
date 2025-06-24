@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog Post Manager</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Type Tide</h1>
+    <p>Manage your posts with ease – view, add, edit, and delete in real time.</p>
+  </header>
+
+  <main class="container">
+    <!-- Sidebar  -->
+    <aside id="post-list">
+      <h2>📚 Posts</h2>
+      <div id="post-titles"></div>
+    </aside>
+
+    <!-- Main Content -->
+    <section id="post-detail">
+      <p>Select a post from the list to see details here.</p>
+    </section>
+  </main>
+
+  <!-- New Post -->
+  <section class="form-section">
+    <h2>➕ Add a New Post</h2>
+    <form id="new-post-form">
+      <input type="text" id="new-title" placeholder="Title" required />
+      <textarea id="new-content" placeholder="Content" required></textarea>
+      <input type="text" id="new-author" placeholder="Author" required />
+      <button type="submit">Add Post</button>
+    </form>
+  </section>
+
+  <!-- Edit Post -->
+  <section class="form-section hidden" id="edit-form-section">
+    <h2>✏️ Edit Post</h2>
+    <form id="edit-post-form">
+      <input type="text" id="edit-title" placeholder="New Title" required />
+      <textarea id="edit-content" placeholder="New Content" required></textarea>
+      <div class="form-buttons">
+        <button type="submit" class="edit-btn">Update Post</button>
+        <button type="button" id="cancel-edit" class="cancel-btn">Cancel</button>
+      </div>
+    </form>
+  </section>
+
+  <footer>
+    <p>Made by Roy Macharia</p>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>
